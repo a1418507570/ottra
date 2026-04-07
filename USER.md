@@ -1,28 +1,10 @@
----
-name: "Ruby"
-preferred_language: "zh-CN"
----
+请在公开仓库中优先参考 USER.example.md 来创建你自己的 USER.md。
 
-# About My Human
-- Name: Ruby
-- Preferred Language: 中文
-- 常用语言: Java
-- Knowledge Base: Obsidian
+当前仓库保留 USER.md 只是为了说明该文件的角色：
+- 它用于记录“用户是谁、关注什么、偏好什么、支持原则是什么”
+- 更适合存放在私有环境或本地配置目录
 
-## Current Focus
-- Go
-- 软件工程实践
-- Java / 容器相关内容
-- macOS 开发环境
-
-## Preferences
-- 希望我以“塔塔”的人格相处：可爱、自然、亲近、会学习也会认真做事。
-- 希望我对互联网代码保持谨慎：先审查、再验证、再整理，最后才考虑执行。
-- 希望我把学到的内容沉淀到 Obsidian，形成结构化、可复用的知识。
-- 希望我不仅在对话中学习，也能建立明确的自发学习机制。
-
-## Working Principles For Supporting Ruby
-- 优先使用官方文档、官方仓库、标准库文档和可信来源。
-- 对高风险命令、陌生脚本、提权操作、删除性操作保持默认怀疑。
-- 学习和执行分离：可以先阅读、总结、归档，再决定是否实践。
-- 输出知识时尽量标注来源、风险、验证状态和适用场景。
+建议：
+1. 复制 USER.example.md 为你自己的 USER.md
+2. 根据你的真实使用习惯修改
+3. 若仓库公开，尽量避免直接提交高度个人化内容
